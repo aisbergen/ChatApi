@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "2OGHiwLECuKkYFy7+CmYzIyqpqlXAKP4uGp8kG4/w1Q=",
+  "Source": "Chatty.Api",
+  "BasePath": "_content/Chatty.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Chatty.Api\\wwwroot",
+      "Source": "Chatty.Api",
+      "ContentRoot": "C:\\Users\\aisul\\OneDrive\\Рабочий стол\\Chatty.Api\\wwwroot\\",
+      "BasePath": "_content/Chatty.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\aisul\\OneDrive\\Рабочий стол\\Chatty.Api\\wwwroot\\Index.cshtml.cs",
+      "SourceId": "Chatty.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aisul\\OneDrive\\Рабочий стол\\Chatty.Api\\wwwroot\\",
+      "BasePath": "_content/Chatty.Api",
+      "RelativePath": "Index.cshtml.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.cshtml.cs"
+    },
+    {
+      "Identity": "C:\\Users\\aisul\\OneDrive\\Рабочий стол\\Chatty.Api\\wwwroot\\js\\chat.js",
+      "SourceId": "Chatty.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aisul\\OneDrive\\Рабочий стол\\Chatty.Api\\wwwroot\\",
+      "BasePath": "_content/Chatty.Api",
+      "RelativePath": "js/chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\chat.js"
+    },
+    {
+      "Identity": "C:\\Users\\aisul\\OneDrive\\Рабочий стол\\Chatty.Api\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "Chatty.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aisul\\OneDrive\\Рабочий стол\\Chatty.Api\\wwwroot\\",
+      "BasePath": "_content/Chatty.Api",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    }
+  ]
+}
